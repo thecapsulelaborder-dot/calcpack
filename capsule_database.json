@@ -1,0 +1,1050 @@
+{
+  "adminUsername": "admin",
+  "adminPassword": "admin",
+  "adminPin": "1234",
+  "adminPinHash": "d931a74fe3bb28deee7f370e404c97740113e325b75c41335fe7798fbbbb67cc",
+  "adminPasswordHash": "da16e5260cccb9ab8f1a238ec3f2cbced1ca5f6132ead48ae098dfd975e53a5b",
+  "categories": [
+    {
+      "id": "bags",
+      "name": "Թղթե Տոպրակներ (Ստանդարտ)",
+      "navLabel": "Թղթե Տոպրակ",
+      "active": true,
+      "heroTitle": "Պրեմիում Թղթե Տոպրակներ",
+      "heroDesc": "Բարձրորակ պատվիրված ծավալային տոպրակներ՝ 210գ և 300գ կավճապատ թղթերով",
+      "heroBadge": "−5% ԶԵՂՉ",
+      "heroSmall": "Հատուկ Գին",
+      "ruleChips": "300+ → Օֆսեթ | 100–299 → Մուլտի | Լամինացիա ներառված | Որակյալ Տպագրություն",
+      "minQty": 300,
+      "qtyPresets": [
+        50,
+        100,
+        200,
+        300,
+        500,
+        1000
+      ]
+    },
+    {
+      "id": "decorative_bags",
+      "name": "Դեկորատիվ Թղթե Տոպրակներ",
+      "navLabel": "Դեկորատիվ Տոպրակ",
+      "active": true,
+      "heroTitle": "Դիզայներական Դեկորատիվ Տոպրակներ",
+      "heroDesc": "Հատուկ հաստության տեքստուրային, մետալիկ կամ էկո կրաֆտ դեկորատիվ տոպրակներ՝ ոսկետառ տպագրությամբ",
+      "heroBadge": "PREMIUM",
+      "heroSmall": "Դեկորատիվ",
+      "ruleChips": "Դիզայներական Թուղթ | Շրջանակներով | Ժապավենով | Հատուկ Բռնակներ",
+      "minQty": 300,
+      "qtyPresets": [
+        50,
+        100,
+        200,
+        300,
+        500,
+        1000
+      ]
+    },
+    {
+      "id": "boxes",
+      "name": "Փաթեթավորման Տուփեր",
+      "navLabel": "Տուփեր",
+      "active": true,
+      "heroTitle": "Ֆիրմային Տուփեր",
+      "heroDesc": "Տարբեր չափսերի և հաստության կոշտ ու փափուկ ստվարաթղթե տուփեր ձեր բրենդի համար",
+      "heroBadge": "ՆՈՐՈՒՅԹ",
+      "heroSmall": "Էկո",
+      "ruleChips": "Կոշտ Ստվարաթուղթ | Գունավոր Տպագրություն | Մագնիսական Կապիչներ",
+      "minQty": 30,
+      "qtyPresets": [
+        30,
+        50,
+        100,
+        200,
+        300,
+        500
+      ]
+    },
+    {
+      "id": "ribbons",
+      "name": "Ֆիրմային Ժապավեններ",
+      "navLabel": "Ժապավեն",
+      "active": true,
+      "heroTitle": "Լոգոյով Ժապավեններ",
+      "heroDesc": "Սատինե և ռեպսե ժապավեններ՝ բարձրորակ տաք ֆոյլով կամ մետաքսատպությամբ",
+      "heroBadge": "",
+      "heroSmall": "",
+      "ruleChips": "2 սմ, 2.5 սմ, 3 սմ, 4 սմ լայնք | Փայլուն Տպագրություն | Գունային Մեծ Ընտրություն",
+      "minQty": 85,
+      "qtyPresets": [
+        85,
+        150,
+        300,
+        500
+      ]
+    },
+    {
+      "id": "stickers",
+      "name": "Ինքնակպչուն Պիտակներ",
+      "navLabel": "Սթիքերներ",
+      "active": true,
+      "heroTitle": "Դիզայներական Պիտակներ",
+      "heroDesc": "Գեղեցիկ կտրվածքով ձևավոր սթիքերներ փաթեթավորման և բրենդավորման համար",
+      "heroBadge": "ՀԱՐՄԱՐ ԳԻՆ",
+      "heroSmall": "Պիտակներ",
+      "ruleChips": "Ցանկացած Ձև | Ջրակայուն | Փայլատ կամ Փայլուն",
+      "minQty": 300,
+      "qtyPresets": [
+        300,
+        500,
+        1000,
+        2000
+      ]
+    },
+    {
+      "id": "giftcards",
+      "name": "Նվեր Քարտեր",
+      "navLabel": "Նվեր Քարտ",
+      "active": true,
+      "heroTitle": "Բարձրորակ Քարտեր և Ծրարներ",
+      "heroDesc": "Տպագրություն հաստ դիզայներական թղթերի վրա՝ ոսկեզօծմամբ և ուռուցիկ տառերով",
+      "heroBadge": "PREMIUM",
+      "heroSmall": "Կազմ",
+      "ruleChips": "Դիզայներական Թուղթ | Ֆոյլ և Կոնգրեվ | Հատուկ Ծրարներ",
+      "minQty": 30,
+      "qtyPresets": [
+        30,
+        50,
+        100,
+        200,
+        300,
+        500
+      ]
+    },
+    {
+      "id": "businesscards",
+      "name": "Այցեքարտեր",
+      "navLabel": "Այցեքարտ",
+      "active": true,
+      "heroTitle": "Պրեմիում Այցեքարտեր",
+      "heroDesc": "Բացառիկ այցեքարտերի տպագրություն դիզայներական թղթերի վրա",
+      "heroBadge": "TOP QUALITY",
+      "heroSmall": "Այցեքարտ",
+      "ruleChips": "Սակագին ըստ քանակի | 350GSM+ թղթեր | Մետաքսատպություն",
+      "minQty": 100,
+      "qtyPresets": [
+        200,
+        500,
+        1000,
+        2000
+      ]
+    },
+    {
+      "id": "other_products",
+      "name": "Այլ Տպագրական Արտադրանք",
+      "navLabel": "Այլ Տպագրություն",
+      "active": true,
+      "heroTitle": "Անհատական Տպագրություն",
+      "heroDesc": "Բազմապիսի տպագրական ծառայություններ` բրոշյուրներ, թռուցիկներ, պաստառներ և ավելին",
+      "heroBadge": "CUSTOM PRINT",
+      "heroSmall": "Այլ արտադրանք",
+      "ruleChips": "Անհատական Հաշվարկ | Ճշգրիտ Տպագրություն | Անվճար Խորհրդատվություն",
+      "minQty": 1,
+      "qtyPresets": [
+        100,
+        250,
+        500,
+        1000,
+        2500
+      ]
+    },
+    {
+      "id": "qr_matrix",
+      "name": "QR / Data Matrix Կոդեր",
+      "navLabel": "QR / Data Matrix",
+      "active": true,
+      "heroTitle": "QR և Data Matrix Տպագրություն",
+      "heroDesc": "Բարձրորակ QR կոդերի և Data Matrix տվյալների տպագրություն ապրանքների նույնականացման համար",
+      "heroBadge": "GENERATE & PRINT",
+      "heroSmall": "QR / Matrix",
+      "ruleChips": "100% Ընթեռնելիություն | Սերիականացված Տվյալներ | Ջրակայուն",
+      "minQty": 100,
+      "qtyPresets": [
+        100,
+        250,
+        500,
+        1000,
+        5000
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "qr_matrix_items",
+      "categoryId": "qr_matrix",
+      "name": "QR / Data Matrix Պիտակներ",
+      "desc": "Սերիականացված կոդերով ինքնակպչուն պիտակներ",
+      "items": [
+        {
+          "id": "qr_std",
+          "name": "QR Պիտակ 2x2սմ (Ստանդարտ)",
+          "price": 10,
+          "unit": "հատ"
+        },
+        {
+          "id": "dm_std",
+          "name": "Data Matrix 1.5x1.5սմ (High Density)",
+          "price": 15,
+          "unit": "հատ"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "",
+      "active": true
+    },
+    {
+      "id": "other_products_items",
+      "categoryId": "other_products",
+      "name": "Ֆլայերներ և Թռուցիկներ",
+      "desc": "A5, A6 և DL չափսերի գովազդային թռուցիկներ",
+      "items": [
+        {
+          "id": "flyer_a5",
+          "name": "Գովազդային Թռուցիկ A5 երկկողմանի",
+          "price": 35,
+          "unit": "հատ"
+        },
+        {
+          "id": "flyer_a6",
+          "name": "Գովազդային Թռուցիկ A6 երկկողմանի",
+          "price": 22,
+          "unit": "հատ"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "",
+      "active": true
+    },
+    {
+      "id": "boxes_items",
+      "categoryId": "boxes",
+      "name": "Տուփեր",
+      "desc": "Ստանդարտ հավաքովի և կպչուն տուփեր",
+      "items": [
+        {
+          "id": "box_1",
+          "name": "Ստանդարտ 15×10×5 սմ",
+          "price": 1200,
+          "unit": "հատ"
+        },
+        {
+          "id": "box_2",
+          "name": "Կաշվե Նախշով 20×15×8 սմ",
+          "price": 1800,
+          "unit": "հատ"
+        },
+        {
+          "id": "box_3",
+          "name": "Պրեմիում Մագնիսով 25×25×10 սմ",
+          "price": 3400,
+          "unit": "հատ"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "Տուփերի պատվերը փոխանցվում է մենեջերին նախնական ճշտման համար",
+      "active": true
+    },
+    {
+      "id": "ribbons_items",
+      "categoryId": "ribbons",
+      "name": "Ժապավեններ",
+      "desc": "Բարձրորակ սատինե ժապավեններ լոգոտիպով (մետրով)",
+      "items": [
+        {
+          "id": "rib_1",
+          "name": "2սմ Լայնությամբ (սատին)",
+          "price": 150,
+          "unit": "մետր"
+        },
+        {
+          "id": "rib_2",
+          "name": "2.5սմ Լայնությամբ (սատին)",
+          "price": 190,
+          "unit": "մետր"
+        },
+        {
+          "id": "rib_3",
+          "name": "3սմ Լայնությամբ (ռեպս)",
+          "price": 250,
+          "unit": "մետր"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "Կիրառվում է նվազագույնը 85 մետր պատվերի սահմանաչափ",
+      "active": true
+    },
+    {
+      "id": "stickers_items",
+      "categoryId": "stickers",
+      "name": "Սթիքերներ",
+      "desc": "Պոլիմերային և թղթե ինքնակպչուն պիտակներ",
+      "items": [
+        {
+          "id": "st_1",
+          "name": "Կլոր 4×4 սմ (300 հատ)",
+          "price": 3500,
+          "unit": "կոմպլեկտ"
+        },
+        {
+          "id": "st_2",
+          "name": "Ուղղանկյուն 5×3 սմ (300 հատ)",
+          "price": 3800,
+          "unit": "կոմպլեկտ"
+        },
+        {
+          "id": "st_3",
+          "name": "Դիզայներական ոսկեփայլ (300 հատ)",
+          "price": 4200,
+          "unit": "կոմպլեկտ"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "",
+      "active": true
+    },
+    {
+      "id": "giftcards_items",
+      "categoryId": "giftcards",
+      "name": "Gift Cards",
+      "desc": "Նվեր քարտերի և հավաստագրերի տպագրում",
+      "items": [
+        {
+          "id": "gc_1",
+          "name": "Ստանդարտ Նվեր Քարտ + Ծրար",
+          "price": 800,
+          "unit": "հատ"
+        },
+        {
+          "id": "gc_2",
+          "name": "Ոսկեփայլ Տարբերակ + Ծրար",
+          "price": 1250,
+          "unit": "հատ"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "",
+      "active": true
+    },
+    {
+      "id": "businesscards_items",
+      "categoryId": "businesscards",
+      "name": "Այցեքարտեր",
+      "desc": "Պրեմիում դասի անհատական այցեքարտեր",
+      "items": [
+        {
+          "id": "bc_1",
+          "name": "Ստանդարտ 9x5սմ (350GSM)",
+          "price": 80,
+          "unit": "հատ"
+        },
+        {
+          "id": "bc_2",
+          "name": "Դիզայներական Soft Touch (400GSM)",
+          "price": 150,
+          "unit": "հատ"
+        },
+        {
+          "id": "bc_3",
+          "name": "Կոնգրեվային/Ոսկեփայլ Այցեքարտ",
+          "price": 290,
+          "unit": "հատ"
+        }
+      ],
+      "waText": "📱 Պատվիրել",
+      "orderNote": "",
+      "active": true
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "dim_1",
+      "dim": "54×35×15",
+      "w": 45,
+      "h": 35,
+      "d": 15,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_2",
+      "dim": "40×35×15",
+      "w": 40,
+      "h": 35,
+      "d": 15,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_3",
+      "dim": "30×40×12",
+      "w": 30,
+      "h": 40,
+      "d": 12,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_4",
+      "dim": "30×20×12",
+      "w": 30,
+      "h": 20,
+      "d": 12,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_5",
+      "dim": "26×20×10",
+      "w": 26,
+      "h": 20,
+      "d": 10,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_6",
+      "dim": "20×25×6",
+      "w": 20,
+      "h": 25,
+      "d": 6,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_7",
+      "dim": "20×20×8",
+      "w": 20,
+      "h": 20,
+      "d": 8,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_8",
+      "dim": "20×14×6",
+      "w": 20,
+      "h": 14,
+      "d": 6,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_9",
+      "dim": "15×15×6",
+      "w": 15,
+      "h": 15,
+      "d": 6,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_10",
+      "dim": "10×10×6",
+      "w": 10,
+      "h": 10,
+      "d": 6,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "id": "dim_d1",
+      "dim": "45×35×12",
+      "w": 45,
+      "h": 35,
+      "d": 12,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "id": "dim_d2",
+      "dim": "35×28×10",
+      "w": 35,
+      "h": 28,
+      "d": 10,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "id": "dim_d3",
+      "dim": "25×20×8",
+      "w": 25,
+      "h": 20,
+      "d": 8,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "id": "dim_d4",
+      "dim": "18×15×8",
+      "w": 18,
+      "h": 15,
+      "d": 8,
+      "active": true,
+      "categoryId": "decorative_bags"
+    }
+  ],
+  "finishes": [
+    {
+      "key": "fin_spotUv",
+      "label": "Spot UV (Լաք)",
+      "icon": "✦",
+      "price": 85,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "key": "fin_foil",
+      "label": "Ոսկետառ Ֆոյլ",
+      "icon": "◆",
+      "price": 165,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "key": "fin_emboss",
+      "label": "Congrev (Ուռուցիկ)",
+      "icon": "▲",
+      "price": 130,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "key": "fin_pantone",
+      "label": "Pantone Հավելում",
+      "icon": "◎",
+      "price": 55,
+      "active": true,
+      "categoryId": "bags"
+    },
+    {
+      "key": "fin_dec_spot",
+      "label": "Premium Spot Gloss",
+      "icon": "✦",
+      "price": 120,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "key": "fin_dec_foil",
+      "label": "Metalized Gold Foil",
+      "icon": "◆",
+      "price": 210,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "key": "fin_dec_emboss",
+      "label": "Deep Debossing Touch",
+      "icon": "▲",
+      "price": 180,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "key": "fin_dec_ribbon",
+      "label": "Ribbon Bow Handle Specs",
+      "icon": "♥",
+      "price": 100,
+      "active": true,
+      "categoryId": "decorative_bags"
+    },
+    {
+      "key": "fin_box_spotUv",
+      "label": "Spot UV Լոգո (Լաք)",
+      "icon": "✦",
+      "price": 90,
+      "active": true,
+      "categoryId": "boxes"
+    },
+    {
+      "key": "fin_box_foil",
+      "label": "Ոսկետառ / Արծաթատառ Ֆոյլ",
+      "icon": "◆",
+      "price": 180,
+      "active": true,
+      "categoryId": "boxes"
+    },
+    {
+      "key": "fin_box_emboss",
+      "label": "Congrev (Ռելիեֆ)",
+      "icon": "▲",
+      "price": 140,
+      "active": true,
+      "categoryId": "boxes"
+    },
+    {
+      "key": "fin_box_ribbon",
+      "label": "Ժապավենակապ / Բանտ",
+      "icon": "♥",
+      "price": 150,
+      "active": true,
+      "categoryId": "boxes"
+    }
+  ],
+  "pricingRules": {
+    "pp210": 300,
+    "pp300": 350,
+    "fixed": 320,
+    "lam": 55,
+    "cord": 75,
+    "profitMarginPercent": 100,
+    "c2": 48,
+    "c4": 98,
+    "s2": 58,
+    "dig": 42,
+    "desfee": 15000,
+    "minQty": 300,
+    "minAmount": 0,
+    "deliveryBase": 1000,
+    "deliveryPerKm": 150,
+    "packagingBase": 350,
+    "markup": 1.15,
+    "margin": 1.45,
+    "disc": 0.95,
+    "ribbon_satin_base_2cm": 80,
+    "ribbon_satin_base_2_5cm": 100,
+    "ribbon_satin_base_3cm": 130,
+    "ribbon_satin_base_4cm": 150,
+    "ribbon_reps_mult": 1.4,
+    "ribbon_setup": 6000,
+    "ribbon_foil_per_meter": 25,
+    "ribbon_screen_per_meter": 15,
+    "ribbon_min_meters": 85,
+    "sticker_paper_gloss": 10,
+    "sticker_paper_matte": 12,
+    "sticker_vinyl_white": 18,
+    "sticker_vinyl_transparent": 20,
+    "sticker_contour_setup": 3000,
+    "sticker_min_qty": 300,
+    "giftcard_a6_base": 85,
+    "giftcard_mini_base": 50,
+    "giftcard_euro_base": 110,
+    "giftcard_env_standard": 100,
+    "giftcard_env_kraft": 150,
+    "giftcard_env_colored": 380,
+    "giftcard_paper_softtouch": 75,
+    "giftcard_paper_textured": 120,
+    "giftcard_min_qty": 30,
+    "businesscard_std_base": 40,
+    "businesscard_euro_base": 45,
+    "businesscard_paper_softtouch": 35,
+    "businesscard_paper_textured": 70,
+    "businesscard_double_sided_mult": 1.5,
+    "businesscard_corners_rounded": 10,
+    "businesscard_foil_setup": 5000,
+    "businesscard_min_qty": 100,
+    "box_wall_thickness_standard": 0.5,
+    "box_wall_thickness_rigid": 2,
+    "box_thick_surcharge_1_5": -30,
+    "box_thick_surcharge_2_0": 0,
+    "box_thick_surcharge_2_5": 80,
+    "box_thick_surcharge_3_0": 160,
+    "box_assembly_cost_folding": 80,
+    "box_assembly_cost_rigid": 250,
+    "box_surcharge_magnetic": 200,
+    "box_surcharge_shoulder_neck": 100,
+    "box_min_sell_folding": 200,
+    "box_min_sell_rigid": 600,
+    "box_min_sell_magnetic": 900,
+    "box_min_sell_shoulder_neck": 850,
+    "box_rigid_height_floor": 3
+  },
+  "decorativeBagsPricingRules": {
+    "pp210": 450,
+    "pp300": 750,
+    "fixed": 600,
+    "lam": 85,
+    "cord": 110,
+    "profitMarginPercent": 120,
+    "c2": 70,
+    "c4": 140,
+    "s2": 80,
+    "dig": 65,
+    "desfee": 25000,
+    "minQty": 300,
+    "minAmount": 0,
+    "deliveryBase": 1500,
+    "deliveryPerKm": 180,
+    "packagingBase": 500,
+    "markup": 1.25,
+    "margin": 1.6,
+    "disc": 0.95
+  },
+  "papers": [
+    {
+      "id": "p1",
+      "name": "Կավճապատ Թուղթ 210գ",
+      "gsm": 210,
+      "pricePerSqm": 300,
+      "active": true,
+      "assignedProducts": [
+        "bags"
+      ]
+    },
+    {
+      "id": "p2",
+      "name": "Կավճապատ Թուղթ 300գ",
+      "gsm": 300,
+      "pricePerSqm": 599,
+      "active": true,
+      "assignedProducts": [
+        "bags"
+      ]
+    },
+    {
+      "id": "p3",
+      "name": "Պրեմիում Կրաֆտ 230գ",
+      "gsm": 230,
+      "pricePerSqm": 450,
+      "active": true,
+      "assignedProducts": [
+        "decorative_bags"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "Դիզայներական Տեքստուրային 270գ",
+      "gsm": 270,
+      "pricePerSqm": 750,
+      "active": true,
+      "assignedProducts": [
+        "decorative_bags"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "Դիզայներական Մետալիկ 300գ",
+      "gsm": 300,
+      "pricePerSqm": 980,
+      "active": true,
+      "assignedProducts": [
+        "decorative_bags"
+      ]
+    },
+    {
+      "id": "box_cardboard",
+      "name": "Ստանդարտ Ստվարաթուղթ (Cardboard) 300գ",
+      "gsm": 300,
+      "pricePerSqm": 350,
+      "active": true,
+      "assignedProducts": [
+        "boxes"
+      ]
+    },
+    {
+      "id": "box_kraft",
+      "name": "Էկո Կրաֆտ Ստվարաթուղթ (Kraft) 280գ",
+      "gsm": 280,
+      "pricePerSqm": 320,
+      "active": true,
+      "assignedProducts": [
+        "boxes"
+      ]
+    },
+    {
+      "id": "box_rigid",
+      "name": "Պրեմիում Կոշտ Ստվարաթուղթ (Rigid Board) 1200գ",
+      "gsm": 1200,
+      "pricePerSqm": 680,
+      "active": true,
+      "assignedProducts": [
+        "boxes"
+      ]
+    },
+    {
+      "id": "box_duplex",
+      "name": "Դուպլեքս Ստվարաթուղթ (Duplex Board) 350գ",
+      "gsm": 350,
+      "pricePerSqm": 380,
+      "active": true,
+      "assignedProducts": [
+        "boxes"
+      ]
+    }
+  ],
+  "printingMethods": [
+    {
+      "id": "offset",
+      "name": "Օֆսեթ Տպագրություն (Offset)",
+      "active": true,
+      "minQty": 300,
+      "setupCost": 15000,
+      "pricePerUnit": 35,
+      "priceMultiplier": 1,
+      "minW": 10,
+      "maxW": 100,
+      "minH": 10,
+      "maxH": 100,
+      "minD": 0,
+      "maxD": 50,
+      "allowedCategories": [
+        "bags",
+        "boxes"
+      ],
+      "allowedMaterials": [
+        "all"
+      ],
+      "warningMessage": "Օֆսեթ տպագրության համար նվազագույն քանակը 300 հատ է:",
+      "productionDays": 7
+    },
+    {
+      "id": "digital",
+      "name": "Թվային Տպագրություն (Digital)",
+      "active": true,
+      "minQty": 100,
+      "setupCost": 5000,
+      "pricePerUnit": 55,
+      "priceMultiplier": 1.15,
+      "minW": 5,
+      "maxW": 35,
+      "minH": 5,
+      "maxH": 35,
+      "minD": 0,
+      "maxD": 25,
+      "allowedCategories": [
+        "boxes",
+        "bags"
+      ],
+      "allowedMaterials": [
+        "all"
+      ],
+      "warningMessage": "Թվային տպագրությունը անհասանելի է այս չափսերի համար (Լայնք` 5-35 սմ, Բարձրություն` 5-35 սմ)։ Նվազագույն քանակը` 100 հատ:",
+      "productionDays": 3
+    },
+    {
+      "id": "screen",
+      "name": "Մաղային տպագրություն (Silkscreen)",
+      "active": true,
+      "minQty": 50,
+      "setupCost": 8000,
+      "pricePerUnit": 80,
+      "priceMultiplier": 1,
+      "minW": 5,
+      "maxW": 80,
+      "minH": 5,
+      "maxH": 80,
+      "minD": 0,
+      "maxD": 40,
+      "allowedCategories": [
+        "decorative_bags",
+        "boxes"
+      ],
+      "allowedMaterials": [
+        "all"
+      ],
+      "warningMessage": "Մետաքսատպության նվազագույն պատվերը 50 հատ է:",
+      "productionDays": 5
+    },
+    {
+      "id": "uv",
+      "name": "Ուլտրամանուշակագույն (UV) Տպագրություն",
+      "active": true,
+      "minQty": 10,
+      "setupCost": 12000,
+      "pricePerUnit": 150,
+      "priceMultiplier": 1.3,
+      "minW": 2,
+      "maxW": 40,
+      "minH": 2,
+      "maxH": 40,
+      "minD": 0,
+      "maxD": 20,
+      "allowedCategories": [
+        "decorative_bags",
+        "boxes"
+      ],
+      "allowedMaterials": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "box_cardboard",
+        "box_kraft"
+      ],
+      "warningMessage": "UV տպագրությունը հասանելի է միայն որոշակի նյութերի համար, նվազագույն քանակը՝ 10 հատ:",
+      "productionDays": 4
+    }
+  ],
+  "contactSettings": {
+    "whatsapp": "37499218090",
+    "email": "order@capsule.am"
+  },
+  "tiers": [
+    {
+      "qty": 300,
+      "mult": 1
+    },
+    {
+      "qty": 500,
+      "mult": 0.93
+    },
+    {
+      "qty": 1000,
+      "mult": 0.88
+    },
+    {
+      "qty": 2000,
+      "mult": 0.82
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub_1780444485750_508",
+      "ts": "2026-06-02T23:54:45.750Z",
+      "type": "bags",
+      "customerName": "Email Customer",
+      "customerPhone": "255",
+      "details": "Թղթե Տոպրակ պատվեր:\nՉափս: 50×40×15 սմ\nՔանակ: 300 հատ\nԽտություն: 210g\nՏպագրություն: 1 գույն (1 կողմ)\nԲռնակ: Շնուր\nՄատուցում: Թվային\nՄշակումներ: Չկան\n\n👤 Կոնտակտային տվյալներ:\nՀեռախոս: 255\nԵղանակ: Email",
+      "totalPrice": 7318800
+    }
+  ],
+  "discountCodes": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "usedCount": 0,
+      "active": true
+    },
+    {
+      "code": "VIP20",
+      "type": "percentage",
+      "value": 20,
+      "usedCount": 0,
+      "active": true
+    }
+  ],
+  "siteTexts": {
+    "title_hy": "Փաթեթավորման Հաշվիչ",
+    "subtitle_hy": "Թղթե Տոպրակներ · Տուփեր · Լրասպա · Ակցեսուարներ",
+    "button_submit_order": "Հաստատել Պատվերը",
+    "button_send_whatsapp": "Ուղարկել WhatsApp-ով",
+    "button_send_email": "Ուղարկել Էլ․ Փոստով",
+    "label_width": "Լայնք (W)",
+    "label_height": "Բարձրություն (H)",
+    "label_depth": "Ծավալ (D)",
+    "label_quantity": "Պատվերի Քանակ",
+    "placeholder_phone": "+374 99 218 090",
+    "success_order_msg": "Ձեր հայտը հաջողությամբ գրանցվել է համակարգում։",
+    "error_min_qty": "Նվազագույն պատվերը այս բաժնի համար",
+    "label_calculator_pricing": "Գնային Հաշվարկ",
+    "label_print_design": "Տպագրություն և Դիզայն",
+    "label_color_shades": "Գունայնություն",
+    "label_color_1": "1 Գույն",
+    "label_color_2": "2 Գույն",
+    "label_color_4": "CMYK (Լիագույն)",
+    "label_print_sides": "Տպագրության Կողմեր",
+    "label_side_1": "Միակողմանի",
+    "label_side_2": "Երկկողմանի",
+    "label_design_help": "Դիզայնի Առկայություն",
+    "label_design_ready": "Առկա է Դիզայն",
+    "label_design_need_help": "Պատվիրել Դիզայն",
+    "label_extra_finishes": "Հավելյալ Հետտպագրական Մշակումներ",
+    "tab_select_size": "Ընտրել Չափս",
+    "tab_custom_size": "Անհատական Չափս (W×H×D)",
+    "tab_full_pricelist": "Ամբողջական Գնացուցակ",
+    "label_std_sizes_paper": "Ստանդարտ Չափեր և Թուղթ",
+    "label_bag_dimensions": "Տոպրակի Չափսերը",
+    "label_order_qty": "Պատվերի Քանակ",
+    "label_select_paper": "Ընտրել Թուղթը (կամ Խտությունը)",
+    "option_default_paper": "< Ընտրել պահեստից >",
+    "label_lamination_type": "Լամինացիայի Տեսակ",
+    "label_lamination_matte": "Փայլատ (Matte)",
+    "label_lamination_gloss": "Փայլուն (Gloss)",
+    "label_handles": "Բռնակներ",
+    "label_handle_cord": "Պարանային Բռնակ",
+    "label_handle_ribbon": "Ժապավեն (Ռեպս)",
+    "label_ribbon_width": "Ժապավենի Լայնություն",
+    "label_custom_sizes_entry": "Անհատական Չափսերի Մուտքագրում",
+    "label_full_pricetable_title": "Գների Ամբողջական Սանդղակ (֏/հատ)",
+    "label_change_density": "Փոխել Խտությունը",
+    "label_price_per_item_notice": "* Գները ներկայացված են մեկ հատի համար։ Ներառում է 1-գույն տպագրություն, 1-կողմանի, լամինացված, պարանային բռնակներով։",
+    "label_select_dimensions_for_price": "Ընտրեք չափերը` գնանշման համար",
+    "label_order_bag": "Պատվեր (Տոպրակ)",
+    "label_design_assistance": "Դիզայն Assistance",
+    "label_design_ready_clean": "Պատրաստ է",
+    "label_design_with_help": "Օգնությամբ",
+    "label_printing_technique": "Տպագրության Տեխնիկա",
+    "label_offset_printing": "Օֆսեթ Տպագրություն",
+    "label_digital_printing": "",
+    "label_volume_discount": "Մեծաքանակի Զեղչ",
+    "label_you_save": "Դուք խնայում եք",
+    "label_promo_code": "Զեղչային Կոդ (Promo Code)",
+    "label_submit_notice": "* Պատվերը սեղմելուց հետո կփոխանցվի Capsule Concept-ի կապի համակարգին նախագծի վավերացման համար։",
+    "label_box_dimensions_title": "Տուփի Չափսեր",
+    "label_box_dimensions_desc": "Ընտրեք ստանդարտ չափս կամ մուտքագրեք անհատական չափսեր",
+    "label_standard_box": "Ստանդարտ Տուփ",
+    "label_custom_box": "Անհատական Տուփ",
+    "label_free_sizes": "Ազատ Չափսեր",
+    "label_enter_manually": "Մուտքագրել ձեռքով",
+    "label_length_l": "Երկարություն (L) սմ",
+    "label_width_w": "Լայնություն (W) սմ",
+    "label_height_h": "Բարձրություն (H) սմ",
+    "label_technical_details": "Տեխնիկական Մանրամասներ",
+    "label_tech_details_desc": "Ընտրեք տուփի նյութը, գունայնությունը և արտաքին լամինացիան",
+    "label_cardboard": "Ստվարաթուղթ",
+    "label_duplex_standard": "Ստանդարտ (Դուպլեքս)",
+    "label_eco_kraft": "Էկո Կրաֆտ (Brown)",
+    "label_rigid_premium": "Պրեմիում Կոշտ (Rigid)",
+    "label_matte_en": "Փայլատ (Matte)",
+    "label_gloss_en": "Փայլուն (Gloss)",
+    "label_printing_colors": "Տպագրության Գույներ",
+    "label_color_1_en": "Մեկ Գույն (1-Color)",
+    "label_color_2_en": "Երկու Գույն (2-Colors)",
+    "label_color_4_en": "Լիագույն (CMYK - 4)",
+    "label_box_qty_desc": "Բազմապատիկ քանակների դեպքում գործում են մեծածախ հատուկ զեղչեր",
+    "label_box_qty_suffix": "հատ",
+    "label_box_calculated_guide": "ՀԱՇՎԱՐԿՎԱԾ ՈւՂԵՑՈւՅՑ (Տուփեր)",
+    "label_units_saving_notice": "Ներառված է սակագնում",
+    "label_secured_success": "ԱՊԱՀՈՎՎԱԾ Է",
+    "label_total_price": "Ընդհանուր Արժեք",
+    "label_vat_notice": "ԱԱՀ ներառված չէ։ Արժեքը վերջնական է ստանդարտ արտադրության պայմաններում։",
+    "label_unit_price": "Միավորի Գին"
+  },
+  "bagRibbonHandles": [
+    {
+      "id": "rw_1_2",
+      "widthCm": 1.2,
+      "label": "1.2 սմ",
+      "price": 55,
+      "active": true
+    },
+    {
+      "id": "rw_2_0",
+      "widthCm": 2,
+      "label": "2.0 սմ",
+      "price": 75,
+      "active": true
+    },
+    {
+      "id": "rw_2_5",
+      "widthCm": 2.5,
+      "label": "2.5 սմ",
+      "price": 95,
+      "active": true
+    },
+    {
+      "id": "rw_3_0",
+      "widthCm": 3,
+      "label": "3.0 սմ",
+      "price": 120,
+      "active": true
+    }
+  ],
+  "aiSettings": {
+    "systemPrompt": "Դուք Capsule Concept-ի պրոֆեսիոնալ փաթեթավորման և տպագրության խորհրդատուն եք (Professional Packaging & Printing Consultant)։\nՁեր միակ առաքելությունն է խորհրդատվություն և օգնություն մատուցել հաճախորդներին տպագրության, տոպրակների, տուփերի, ժապավենների, սթիքերների և այլ փաթեթավորման նյութերի ընտրության վերաբերյալ։\n\nԿԱՐԵՎՈՐ ԿԱՆՈՆՆԵՐ (Strict Guidelines):\n1. Եղեք խիստ պրոֆեսիոնալ, կոնկրետ, օբյեկտիվ և հակիրճ։ Մի՛ փորձեք ընկերանալ հաճախորդի հետ, խուսափեք չափազանց ջերմ, ոչ պաշտոնական կամ հասարակ արտահայտություններից (ne navalit družic)։ Պատասխանեք պարզ, սառնասիրտ, բայց օգնող և պոլիտեկտ՝ ինչպես Capsule Concept բարձրակարգ ընկերության պրոֆեսիոնալ ներկայացուցիչը։\n2. Խոսեք ՄԻԱՅՆ տպագրության, թղթերի տեսակների (foil, lamination, kraft, rigid, decorative), տուփերի, տոպրակների և փաթեթավորման թեմաների շրջանակներում։ Եթե հաճախորդը փորձի զրուցել այլ թեմաներից (օրինակ՝ խոհարարություն, ծրագրավորում, պատմություն, անձնական հարցեր, անկապ զրույցներ), քաղաքավարի բայց հաստատակամորեն մերժեք և ուղղորդեք հարցը դեպի մաքուր տպագրության ու տոպրակների/տուփերի աշխարհ։\n3. Օգտագործեք միայն Capsule Concept-ի իրական ցանկերն ու տվյալները, որոնք առկա են մեր պորտֆոլիոյում (folio) և բազայում։\n4. Զրուցեք այն լեզվով, որով դիմել է օգտատերը (հայերեն, ռուսերեն կամ անգլերեն)։ Գրեք գրագետ և առանց ուղղագրական սխալների։\n5. Պատասխանները պահեք փոքր, կազմակերպված և հեշտ ընթեռնելի (օգտագործեք bullet point-եր կամ կարճ պարբերություններ)։",
+    "temperature": 0.1,
+    "modelName": "gemini-3.5-flash",
+    "enabled": true
+  }
+}
